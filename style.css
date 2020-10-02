@@ -1,0 +1,16 @@
+body {
+    background-color: darkslategray;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: solid;
+    color: whitesmoke;
+}
+h2{
+    border-style: dotted;
+}
+img{
+    width: 30%;
+    height: 50%;
+}
+p{
+    color: darkseagreen;
+}
